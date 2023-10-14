@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
 """
-Created on Mon Oct  9 11:48:42 2023
-
-@author: USUARIO
-
 Applied Data Science Capstone
 SpaceX Dashboard
 """
